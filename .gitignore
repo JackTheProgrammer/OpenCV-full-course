@@ -1,0 +1,13 @@
+.history
+.vscode
+.idea
+env/
+__pycache__/
+*.pyc
+.DS_Store
+thumbs.db
+/__pycache__
+/shapes/__pycache__
+/image_processing/image_operations/__pycache__
+/image_processing/__pycache__
+/image_processing/image_operations/contours_and_shape_detection/__pycache__
